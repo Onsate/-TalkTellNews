@@ -1,1 +1,1 @@
-GlobeView
+Globe View
